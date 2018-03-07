@@ -7,4 +7,4 @@ In this meetup we will show you how to scrape text from websites using Python (a
 
 ## Gettting Started 
 
-Work through the Web *Scraping and NLP.ipynb* notebook and if you get stuck you can look at the *[COMPLETED] Web Scraping and NLP.ipynb* notebook. 
+Work through the **Web Scraping and NLP.ipynb** notebook and if you get stuck you can look at the **[COMPLETED] Web Scraping and NLP.ipynb** notebook. 
