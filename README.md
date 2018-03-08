@@ -11,6 +11,16 @@ In this meetup we will show you how to scrape text from websites using Python (a
 
 Work through the **Web Scraping and NLP.ipynb** notebook and if you get stuck you can look at the **[COMPLETED] Web Scraping and NLP.ipynb** notebook. 
 
+## As a backup if you cant get it running on your computer
+
+The notebook is published as a Kaggle kernal aswell:
+
+1. Create a Kaggle account if you haven't already
+
+2. Go to https://www.kaggle.com/zackakil/web-scraping-nlp-cldspn/notebook
+
+3. Fork the kernal
+
 Have fun,
 
 Zack.
